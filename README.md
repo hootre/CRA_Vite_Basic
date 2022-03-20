@@ -1,11 +1,10 @@
-# React CRUD
+# Vite React CRA
 
-> A simple CRUD using localStorage for a product's list.
-> Live demo [_here_](https://react-crud-localstorage.netlify.app/).
+> React Vite Typescript mui tailwind project
 
-## Table of Contents 📜
+## Technologies Used 🛠
 
-- [Technologies Used](#technologies-used-)
-- [Screenshots](#screenshots-%EF%B8%8F)
-- [Project Status](#project-status)
-- [Contact](#contact)
+- [React](https://reactjs.org/) - version 17.0
+- [TypeScript](https://www.typescriptlang.org/) - version 4.4
+- [Vite.js](https://vitejs.dev/) - version 2.7
+- [Material UI](https://mui.com/) - version 5.3
